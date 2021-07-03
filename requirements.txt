@@ -5,3 +5,8 @@ html5lib == 1.1
 bs4 == 0.0.1
 fake_headers == 1.0.2 # required #https://pypi.org/project/fake-headers/
 #__
+dj-database-url
+django-heroku
+whitenoise
+gunicorn
+python-decouple
