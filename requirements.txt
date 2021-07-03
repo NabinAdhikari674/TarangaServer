@@ -1,5 +1,6 @@
 Django
 pandas
+requests
 #__
 html5lib == 1.1
 bs4 == 0.0.1
